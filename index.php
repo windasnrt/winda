@@ -1,3 +1,7 @@
+<?php
+echo "Winda Lorenza Sinurat";
+?>
+
 <html>
     <head>
         <title>Biodata</title>
